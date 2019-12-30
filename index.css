@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+img {
+    width: 100%;
+    /* background-size: cover; */
+    height: 600px;
+    /* background-size: auto; */
+}
+
 body {
     background: #9c511a;
 }
