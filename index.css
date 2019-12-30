@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background: #9c511a;
+}
+
+b {
+    font-family: cursive;
+    margin-left: 43%;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 66px;
+    text-align: center;
+}
