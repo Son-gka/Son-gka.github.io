@@ -1,1 +1,7 @@
-*{margin: 0; padding: 0;}
+*{margin: 0; padding: 0}
+a.navbar-brand {
+    padding: 0;
+}
+a.navbar-brand {
+    margin-right: 48%;
+}
