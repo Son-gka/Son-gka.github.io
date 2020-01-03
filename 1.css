@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+
+img {
+    width: 542px;
+    height: 400px;
+    /* margin: auto; */
+    /* left: 20%; */
+    margin-left: 456px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    font-family: cursive;
+}
